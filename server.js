@@ -59,7 +59,8 @@ const lang = {
      'ŋ̩':{IPA: 'ŋ̩', Symbols: 'ng/ㄫ ', Examples: '五'},
  },
  'hokkien':{
-     'p':{IPA: 'p', Symbols: 'p/ㄅ', Examples: '布 (pòo)'},
+    'consonants': {
+    'p':{IPA: 'p', Symbols: 'p/ㄅ', Examples: '布 (pòo)'},
      'pʰ':{IPA: 'pʰ', Symbols: 'ph/ㄆ', Examples: '普 (phóo)'},
      'b':{IPA: 'b', Symbols: 'b/ㆠ', Examples: '明 (bîng)'},
      'm':{IPA: 'm', Symbols: 'm/ㄇ/ㆰ/ㆬ', Examples: '媽 (má)/暗 (àm)/參 (som)/心 (sim)'},
@@ -88,6 +89,11 @@ const lang = {
      'p̚':{IPA: 'p̚', Symbols: 'p/◌ㄅ', Examples: '合 (ha̍p)'},
      't̚':{IPA: 't̚', Symbols: 't/◌ㄉ', Examples: '七 (tshit)'},
      'k̚':{IPA: 'k̚', Symbols: 'k/◌ㄍ', Examples: '角 (kak)'},
+    },
+    'vowels':{
+
+    },
+    'tones':{}
  },
  'empty':{
      'unknown':{IPA: 'unknown', Symbols: 'unknown', Examples: 'unknown'},
