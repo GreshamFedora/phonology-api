@@ -5,7 +5,7 @@ Chinese Topolect Phonology API
 API created to make the conosnant data for the top three Chinese topolects available for use. Initially created as an intermediate step to a larger project. 
 
 Link to project: https://cn-api.netlify.app/
-![image](https://user-images.githubusercontent.com/102261261/184179508-2b12b07a-d838-4d40-874e-bc52a1de5785.png)
+![image](https://user-images.githubusercontent.com/102261261/184191752-9ce8e3c4-577d-4132-9eb2-5731caa6bcb7.png)
 
 
 
