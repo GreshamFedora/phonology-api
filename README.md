@@ -13,7 +13,7 @@ How It's Made:
 
 Tech used: Node.js, Express.js, JavaScript, HTML, & CSS
 
-For this API, I built out a server to respond with objects containing topolect phonological data (consonants) using Node.js and Express.js. As mentioned previously, this is an intermediate step as part of a larger project. I wanted to make this data available regardless. I'm an avid language learner and I enjoy combining my passions when I cn.
+For this API, I built out a server to respond with objects containing topolect phonological data (consonants) using Node.js and Express.js. As mentioned previously, this is an intermediate step as part of a larger project. I wanted to make this data available regardless. I'm an avid language learner and I enjoy combining my passions when I can.
 
 Optimizations
 Three directions could be taken given more time, though the first one is the intended direction:
